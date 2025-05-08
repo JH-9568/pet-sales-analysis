@@ -1,4 +1,4 @@
-<h1 align="center">🐍 특수 반려동물 판매량 분석 프로젝트</h1>
+<h1 align="center"> 특수 반려동물 판매량 분석 프로젝트(1-1term_project)</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-3.9-blue?logo=python">
